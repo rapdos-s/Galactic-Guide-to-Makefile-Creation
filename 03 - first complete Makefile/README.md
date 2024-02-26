@@ -189,3 +189,5 @@ Quando precisamos limpar, usamos make fclean
 Mas temos um problema, apesar de funcional, esse Makefile não entende quando um projeto é atualizado, isso é fundamental para evitar o relink e facilitar atualizações futuras.
 
 Vamos ver isso na parte seguinte.
+
+Lembrar de adicionar .PHONY
