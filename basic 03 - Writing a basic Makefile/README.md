@@ -251,3 +251,8 @@ Aqui vale uma nota: O Makefile considera algumas receitas como especiais e já t
 Nos vemos na próxima parte o/
 
 #### [Básico 04 - Finalizando e removendo relink](https://github.com/rapdos-s/Galactic-Guide-to-Makefile-Creation/tree/main/basic%2004%20-%20Removing%20relink%20finishing)
+
+### Quer apoiar o conteúdo?
+Caso queira fazer isso via pix, basta escanear o qrcode
+
+<img src="assets/qrcode-pix.png" alt="QRCode Pix" width="300"/>
