@@ -186,3 +186,8 @@ A seguir faremos um Makefile suficiente para lidar com um projeto simples.
 Nos vemos na próxima parte o/
 
 #### [Básico 03 - Escrevendo um Makefile Básico](https://github.com/rapdos-s/Galactic-Guide-to-Makefile-Creation/tree/main/basic%2003%20-%20Writing%20a%20basic%20Makefile)
+
+### Quer apoiar o conteúdo?
+Caso queira fazer isso via pix, basta escanear o qrcode
+
+<img src="assets/qrcode-pix.png" alt="QRCode Pix" width="300"/>
