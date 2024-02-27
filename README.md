@@ -30,3 +30,9 @@ Nessa sessão temos o básico, terminando as 4 partes teremos um Makefile funcio
 #### [Básico 02 - Dependência nas receitas e Variáveis](https://github.com/rapdos-s/Galactic-Guide-to-Makefile-Creation/tree/main/basic%2002%20-%20Recipe%20Dependencies%20and%20Variables)
 #### [Básico 03 - Escrevendo um Makefile Básico](https://github.com/rapdos-s/Galactic-Guide-to-Makefile-Creation/tree/main/basic%2003%20-%20Writing%20a%20basic%20Makefile)
 #### [Básico 04 - Finalizando e removendo relink](https://github.com/rapdos-s/Galactic-Guide-to-Makefile-Creation/tree/main/basic%2004%20-%20Removing%20relink%20finishing)
+
+### Quer apoiar o conteúdo?
+Caso queira fazer isso via pix, basta escanear o qrcode
+
+<img src="assets/qrcode-pix.png" alt="QRCode Pix" width="300"/>
+
