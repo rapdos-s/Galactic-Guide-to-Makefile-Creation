@@ -385,3 +385,8 @@ Mudar configurações como o compilador em $(CC) ou alterar $(RM) para funcionar
 Adicionar saídas mais descritivas com echo e ocultar comandos com `@`.
 
 Muitas coisas podem ser feitas usando esse Makefile de base, futuramente teremos adendos aqui para deixar o Makefile mais robusto ou adaptar para outras situações.
+
+### Quer apoiar o conteúdo?
+Caso queira fazer isso via pix, basta escanear o qrcode
+
+<img src="assets/qrcode-pix.png" alt="QRCode Pix" width="300"/>
