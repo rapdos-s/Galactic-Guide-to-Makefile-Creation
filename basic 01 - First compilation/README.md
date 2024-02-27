@@ -214,3 +214,8 @@ Com isso já conseguimos o básico, quase tudo que fazemos num terminal é poss�
 Nos vemos na próxima parte o/
 
 #### [Básico 02 - Dependência nas receitas e Variáveis](https://github.com/rapdos-s/Galactic-Guide-to-Makefile-Creation/tree/main/basic%2002%20-%20Recipe%20Dependencies%20and%20Variables)
+
+### Quer apoiar o conteúdo?
+Caso queira fazer isso via pix, basta escanear o qrcode
+
+<img src="assets/qrcode-pix.png" alt="QRCode Pix" width="300"/>
